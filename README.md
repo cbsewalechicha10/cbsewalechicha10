@@ -1,6 +1,7 @@
 
-<h1> Hello , this is Visheh 🙂 </h1>
-<h3 align="center">Typical from think and going to achieve typical goals ✨👀</h3>
+<h1> Hello , this is Vishesh 🙂 </h1>
+
+<h3 "center">Typical from think and going to achieve typical goals ✨👀</h3>
 
 <p align="center">
    

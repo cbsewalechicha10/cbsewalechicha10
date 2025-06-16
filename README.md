@@ -14,16 +14,13 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Known Languages:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -31,15 +28,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VisheshVerma0&show_icons=true&theme=tokyonight" alt="Vishesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cbsewalechicha10&show_icons=true&theme=tokyonight" alt="Vishesh's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisheshVerma0&theme=tokyonight" alt="Vishesh's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cbsewalechicha10&theme=tokyonight" alt="Vishesh's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshVerma0&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbsewalechicha10&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---

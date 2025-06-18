@@ -62,14 +62,6 @@
 
 ---
 
-## 🐍 Watch My Contributions Snake Its Way Through!
-
-<p align="center">
-  <img src="https://cbsewalechicha10.github.io/dist/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="center">

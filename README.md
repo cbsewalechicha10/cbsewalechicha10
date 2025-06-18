@@ -35,17 +35,30 @@
 
 <p align="center">
   <a href="https://github.com/cbsewalechicha10">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=cbsewalechicha10&theme=chartreuse-dark&hide_border=true&background=000000" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cbsewalechicha10&theme=chartreuse-dark&hide_border=true&background=000000" />
   </a>
 </p>
-
 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cbsewalechicha10&theme=chartreuse-dark&area=true&hide_border=true&bg_color=000000" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbsewalechicha10&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&langs_count=8" width="49%" />
+</p>
+
 ---
+
+### 🧮 Contribution Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbsewalechicha10&theme=chartreuse_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cbsewalechicha10&theme=chartreuse_dark&utcOffset=+5.5" />
+</p>
 
 ---
 

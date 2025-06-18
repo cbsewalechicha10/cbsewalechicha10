@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-    <img src="https://te.legra.ph/file/c788faffff299be55d2e1.jpg" alt="Vishesh's Avatar" width="300" />
+    <img src="./Onwer/photo_2025-06-18_21-03-51.jpg" alt="Vishesh's Avatar" width="250" style="border-radius: 50%;" height="300" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠 Known Languages:
+## 🛠 Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,26 +25,50 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cbsewalechicha10&show_icons=true&theme=tokyonight" alt="Vishesh's GitHub Stats" />
+  <a href="https://github.com/cbsewalechicha10">
+    <img src="https://github-readme-stats.vercel.app/api?username=cbsewalechicha10&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cbsewalechicha10&theme=tokyonight" alt="Vishesh's GitHub Streak" />
+  <a href="https://github.com/cbsewalechicha10">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cbsewalechicha10&theme=chartreuse-dark&hide_border=true&background=000000" width="49%" />
+  </a>
 </p>
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbsewalechicha10&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cbsewalechicha10&theme=chartreuse-dark&area=true&hide_border=true&bg_color=000000" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+---
+
+## 🐍 Watch My Contributions Snake Its Way Through!
+
+<p align="center">
+  <img src="https://cbsewalechicha10.github.io/dist/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
+</p>
+
+---
+
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://twitter.com/VisheshVerma0" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+</p>
+
+---
+
+## 👁️ Visitors
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/cbsewalechicha10/count.svg" alt="Visitor Counter" />
 </p>

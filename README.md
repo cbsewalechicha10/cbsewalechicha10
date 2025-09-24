@@ -63,9 +63,12 @@
 ---
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/cbsewalechicha10/cbsewalechicha10/blob/output/snake.svg" alt="Snake animation" />
-</p>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/cbsewalechicha10/cbsewalechicha10/blob/output/snake.svg)
+  
+</div>
 
 
 ## 🔗 Connect with Me

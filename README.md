@@ -50,26 +50,40 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/cbsewalechicha10/cbsewalechicha10/blob/output/snake.svg)
-  
+  <img src="https://github.com/cbsewalechicha10/cbsewalechicha10/blob/output/snake.svg?raw=true" 
+       alt="Snake animation" 
+       style="filter: drop-shadow(0 0 5px #36BCF7) drop-shadow(0 0 10px #8A2BE2);"/>
 </div>
 
 ---
 
 ## 🔗 Connect with Me
 
-<p>
+<p align="center">
+  <!-- Telegram -->
   <a href="https://t.me/cbsewalechicha10" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="50" height="50" style="margin: 0 20px;"/>
-  </a><br><br>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/telegram-app.png" 
+         style="background:#2CA5E0; border-radius:50%; padding:12px; box-shadow: 0 0 15px #2CA5E0;" 
+         alt="Telegram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- X -->
   <a href="https://twitter.com/VisheshVerma0" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X" width="50" height="50" style="margin: 0 20px;"/>
-  </a><br><br>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" 
+         style="background:#1DA1F2; border-radius:50%; padding:12px; box-shadow: 0 0 15px #1DA1F2;" 
+         alt="X"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/visheshverma2007" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50" style="margin: 0 20px;"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" 
+         style="background:#0A66C2; border-radius:50%; padding:12px; box-shadow: 0 0 15px #0A66C2;" 
+         alt="LinkedIn"/>
   </a>
 </p>
+
+
+
 
 
 
